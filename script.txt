@@ -1,4 +1,4 @@
---Made by $ Ism#0041
+--Made by $ GaliadReaper#5047
 
 getgenv().Prediction = 0.15038
 getgenv().AimPart = "HumanoidRootPart"
@@ -6,8 +6,8 @@ getgenv().Key = "Q"
 getgenv().DisableKey = "P"
 
 getgenv().FOV = true
-getgenv().ShowFOV = false
-getgenv().FOVSize = 55
+getgenv().ShowFOV = true
+getgenv().FOVSize = 47.9
 
 --// Variables (Service)
 
